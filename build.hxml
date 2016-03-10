@@ -1,0 +1,4 @@
+-js builds/js/main.js
+-cp src
+-main gandalf.Main
+-lib tink_macro
