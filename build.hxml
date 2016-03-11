@@ -2,3 +2,5 @@
 -cp src
 -main gandalf.Main
 -lib tink_macro
+-dce full
+-D analyzer
